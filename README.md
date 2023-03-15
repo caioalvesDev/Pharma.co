@@ -1,7 +1,7 @@
 
 # PHARMA.CO 
 
-Projeto desenvolvido para processo seletivo dev Full-Stack.
+Projeto desenvolvido para processo seletivo dev Full-Stack (Building 8).
 
 
 Para criação deste projeto foram aplicadas Alguns principios do conceito S.O.L.I.D.
@@ -22,13 +22,36 @@ Segui com abordagem utilizando Inertiajs para desenvolver uma SPA sem que precis
 
 ## Instalação 🚀
 
-Instale my-project com npm
+Instale com composer
 
 ```bash
-  npm install my-project
-  cd my-project
+  cd Pharma.co
+  composer install
 ```
-    
+
+Troque o arquivo .env.exemple para .env, para usar as variáves para conectar no bando de dados
+
+
+  
+Rode as migrates
+
+```bash
+  php artisan migrate
+```
+  
+Instale as dependencias via npm
+
+
+```bash
+  npm install
+```
+
+Para rodar aplicação localmente
+```bash
+  php artisan serve
+```
+
+
 ## Referência 📄
 
  - [Laravel](https://laravel.com/)
