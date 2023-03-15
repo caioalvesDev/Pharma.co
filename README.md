@@ -71,7 +71,7 @@ Para rodar aplicação localmente
 
 ## Stack utilizada
 
-**Front-end:** Vuejs 3(Composition API, HOOKE LIFECYCLE), Inertiajs, Breeze, TailwindCSS
+**Front-end:** Vuejs 3(Composition API, HOOKS LIFECYCLE), Inertiajs, Breeze, TailwindCSS
 
 **Back-end:** PHP, Laravel 
 
