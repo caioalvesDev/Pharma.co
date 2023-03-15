@@ -33,7 +33,7 @@ const showingNavigationDropdown = ref(false);
                                     Dashboard
                                 </NavLink>
                             </div>
-                        
+
                         </div>
 
                         <div class="hidden sm:flex sm:items-center sm:ml-6">

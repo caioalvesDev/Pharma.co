@@ -15,6 +15,7 @@ const form = useForm({
     terms: false,
 });
 
+console.log(form);
 const submit = () => {
     form.post(route('register'), {
         onFinish: () => form.reset('password', 'password_confirmation'),
@@ -24,7 +25,7 @@ const submit = () => {
 
 <template>
     <GuestLayout>
-        <Head title="Register" />
+        <Head title="Cadastrar" />
 
         <form @submit.prevent="submit">
             <div>

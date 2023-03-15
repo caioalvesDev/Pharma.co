@@ -22,7 +22,7 @@ const submit = () => {
 <template>
     <GuestLayout>
 
-        <Head title="Forgot Password" />
+        <Head title="Esqueci a senha" />
 
         <div class="mb-4 text-sm text-gray-600">
 
@@ -34,7 +34,7 @@ const submit = () => {
             {{ status }}
         </div>
 
-        <form @submit.prevent="submit">
+        <form @submit.prevent="">
             <div>
                 <InputLabel for="email" value="Email" />
 
