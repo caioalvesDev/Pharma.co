@@ -8,7 +8,13 @@ Para criação deste projeto foram aplicadas Alguns principios do conceito S.O.L
 
 Segui com abordagem utilizando Inertiajs para desenvolver uma SPA sem que precise desenvolver uma API.
 
-## Para visualizar os usuários cadastrados, crie um lógica com o e-mail:admin@admin.com ou admin@admin.com.br
+## Para visualizar os usuários cadastrados, crie um login com  e-mail:
+
+```bash
+admin@admin.com
+admin@admin.com.br
+
+```
 
 
 
