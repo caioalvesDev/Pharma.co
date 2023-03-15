@@ -75,6 +75,8 @@ Para rodar aplicação localmente
 
 **Back-end:** PHP, Laravel 
 
+**Banco de dados:** SQL
+
 
 ## Screenshots
 
