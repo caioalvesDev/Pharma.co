@@ -77,6 +77,7 @@ Para rodar aplicação localmente
 
 
 ## Screenshots
+![link para visualizar as Screenshot](https://photos.app.goo.gl/v6zKdpxA87BhNaYk7)
 
 ![App Screenshot](https://photos.app.goo.gl/Pyn8uqyBGqBiEi9K6)
 ---
