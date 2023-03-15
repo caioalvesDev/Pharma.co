@@ -22,7 +22,7 @@ Segui com abordagem utilizando Inertiajs para desenvolver uma SPA sem que precis
 
 ## Instalação 🚀
 
-Instale com composer
+Instale as dependências com composer
 
 ```bash
   cd Pharma.co
@@ -39,7 +39,7 @@ Rode as migrates
   php artisan migrate
 ```
   
-Instale as dependencias via npm
+Instale as dependências via npm
 
 
 ```bash
