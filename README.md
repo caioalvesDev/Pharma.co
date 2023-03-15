@@ -1,6 +1,5 @@
 
-
-# PHARMA.CO
+# PHARMA.CO 
 
 Projeto desenvolvido para processo seletivo dev Full-Stack.
 
@@ -21,7 +20,7 @@ Segui com abordagem utilizando Inertiajs para desenvolver uma SPA sem que precis
 - Link de redefinição de senha e email (em desenvolvimento)
 
 
-## Instalação
+## Instalação 🚀
 
 Instale my-project com npm
 
@@ -30,7 +29,7 @@ Instale my-project com npm
   cd my-project
 ```
     
-## Referência
+## Referência 📄
 
  - [Laravel](https://laravel.com/)
  - [Inertiajs](https://inertiajs.com/)
@@ -63,7 +62,7 @@ Instale my-project com npm
 ---
 ![App Screenshot](https://lh3.googleusercontent.com/YbVMeWka9-ZB5KhbZQ6WcsmURBKPxA2EX8VEc2jGFG5n8kcuaaNXi906v7aVqMQa35ndk5Ud6cqNA-X7zuIKq-jLBmmMASnYbjoKhGyHqtDtxdu8njKab2CFXDBKPacDEu_mPj1iMb9O8IR4bqKElTLaKHbbtw4vvlgVneL0NrpdILBUXPGG2F8eWm0mEHbeTmQMFTNOWhbGSdfczX-3QYQTc-wA2Ow93tNMn8hoo7mSIC-U8wc6RBzuedVKPZcs2wbRyBrztXVXi6b497617AH6Z94vhx_yHi_tDVfKO3v8pmEe6SQSLI0EOK6plcOkzQ0-ismcZGLjgM9GqJtGrQ4D9YYOBcm-FmMzjXix1GdLXmVVVvyuo60gPw2kpJWmiHqWAb94pUi8cmBakiR5VjG5xpNOAGK9HhZ82sbCjXKy7AP0ssmduVzSAE-tdVNZmEhPMoabLc1Wl4zOu16Q1sZ7NduhvxF7ewsIHBtgKDi704FD8-8XnwR974W-SyUvQ20ECeldqJXoM2ZR7Q7rSbZMngLE87_0TrlUZLEGj47tdJGWLkgldDoDGdGlH0B3tHKErRf4ro59HeLLQcObM8bjprAlsGxTi4Fy5VgYYm_hyV5h2vxYQ4RMQuBfnX4k8ZNAdNSEdjddyHV1-E914xft8I1vOnC4jas2Gw1BWZmxDncb8f1OHYEjcbNkjrHH4pNDOPAVJ1kjjs7VwnCHJeqJR7olRghr5cG-hDc7l5Tt0QLuviVhtjM0y4EqxRZtjrFRYEb3x39qOSNpSAvlH9CF2zkhGEGTZXDZyIq0w_cCLvC7KoL9FwKTeaTgwyMXVxb9WlcydG7TvWqEIq27jAHBL6YgqWbCVa_1HyWivwNOiM2nLkp3bQZK23wJ32H7lNuhnejIDT4r_qhLGQC_bJFXDxG9oUlTwEEaeReOcJnG_w=w1643-h832-s-no?authuser=0) 
 
-## Aprendizados
+## Aprendizados 📖
 
 Coloquei a prova meus conhecimentos de Laravel e Vue, tive algumas dificuldades de com o Inertiajs e Breeze, porém resolvi praticamente assistindo videos e lendo documentações.
 
