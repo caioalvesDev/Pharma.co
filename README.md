@@ -38,7 +38,7 @@ Instale as dependências com composer
   composer install
 ```
 
-Troque o arquivo .env.exemple para .env, para usar as variáves para conectar no bando de dados
+Troque o arquivo .env.exemple para .env, para usar as variáves para conexão com o banco de dados
 
 
   
