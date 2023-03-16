@@ -6,7 +6,7 @@ Projeto desenvolvido para processo seletivo dev Full-Stack (Building 8).
 
 Para criação deste projeto foram aplicadas Alguns principios do conceito S.O.L.I.D.
 
-Segui com abordagem utilizando Inertiajs para desenvolver uma SPA sem que precise desenvolver uma API.
+Segui com abordagem utilizando Inertiajs para desenvolver uma SPA sem que precise desenvolver uma API(monolith).
 
 ## Para visualizar os usuários cadastrados, crie um login com  e-mail:
 
